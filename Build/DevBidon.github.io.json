@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Adapt-Hype-VR-Game",
+"productVersion": "0.0.1",
+"dataUrl": "DevBidon.github.io.data.unityweb",
+"wasmCodeUrl": "DevBidon.github.io.wasm.code.unityweb",
+"wasmFrameworkUrl": "DevBidon.github.io.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.5f1"
+}
