@@ -3,7 +3,7 @@
 "productName": "Trade-Show-Stryker-3D",
 "productVersion": "0.1",
 "dataUrl": "TradeShow3d.data.unityweb",
-"wasmCodeUrl": "TradeShow3d.wasm",
+"wasmCodeUrl": "TradeShow3d.wasm.code.unityweb",
 "wasmFrameworkUrl": "TradeShow3d.wasm.framework.unityweb",
 "graphicsAPI": ["WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
